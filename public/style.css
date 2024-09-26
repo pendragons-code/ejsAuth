@@ -1,0 +1,13 @@
+body {
+	background-color: red;
+}
+
+.alert {
+	background-color: rgb(244 63 94);
+	padding: 0.5rem;
+	width: 535px;
+	margin-bottom : 1rem;
+	font-size: 16px;
+	letter-spacing: 1px;
+	color: white;
+}
